@@ -1,0 +1,399 @@
+fileFormatVersion: 2
+guid: 70de81a8a54725340b6a5578038694dc
+timeCreated: 1518107401
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BackLight
+    100002: BackTireBumper
+    100004: BackWheel.L
+    100006: BackWheel.R
+    100008: barrel
+    100010: Base
+    100012: BumperBack
+    100014: BumperFront
+    100016: CarRig
+    100018: Cylinder
+    100020: Driver
+    100022: Driver_end
+    100024: Empty
+    100026: Empty.001
+    100028: FrontLight
+    100030: FrontRotation.L
+    100032: FrontRotation.L.001
+    100034: FrontRotation.L.001_end
+    100036: FrontRotation.L_end
+    100038: FrontRotation.R
+    100040: FrontRotation.R.001
+    100042: FrontRotation.R.001_end
+    100044: FrontRotation.R_end
+    100046: FrontShield
+    100048: FrontSteer.L
+    100050: FrontSteer.R
+    100052: FrontSteer_Main
+    100054: FrontSteer_Track..L
+    100056: FrontSteer_Track..L_end
+    100058: FrontSteer_Track..R
+    100060: FrontSteer_Track..R_end
+    100062: GunBarrel
+    100064: GunBone
+    100066: GunBone_end
+    100068: MainCar
+    100070: MainCar 1
+    100072: Mirror
+    100074: Plane
+    100076: //RootNode
+    100078: Side
+    100080: Tire_Rubber
+    100082: Tire_Rubber.001
+    100084: Tire_Rubber.002
+    100086: Tire_Rubber.003
+    100088: TireBackLeft
+    100090: TireBackRight
+    100092: TireFrontLeft
+    100094: TireFrontRight
+    100096: Turret
+    400000: BackLight
+    400002: BackTireBumper
+    400004: BackWheel.L
+    400006: BackWheel.R
+    400008: barrel
+    400010: Base
+    400012: BumperBack
+    400014: BumperFront
+    400016: CarRig
+    400018: Cylinder
+    400020: Driver
+    400022: Driver_end
+    400024: Empty
+    400026: Empty.001
+    400028: FrontLight
+    400030: FrontRotation.L
+    400032: FrontRotation.L.001
+    400034: FrontRotation.L.001_end
+    400036: FrontRotation.L_end
+    400038: FrontRotation.R
+    400040: FrontRotation.R.001
+    400042: FrontRotation.R.001_end
+    400044: FrontRotation.R_end
+    400046: FrontShield
+    400048: FrontSteer.L
+    400050: FrontSteer.R
+    400052: FrontSteer_Main
+    400054: FrontSteer_Track..L
+    400056: FrontSteer_Track..L_end
+    400058: FrontSteer_Track..R
+    400060: FrontSteer_Track..R_end
+    400062: GunBarrel
+    400064: GunBone
+    400066: GunBone_end
+    400068: MainCar
+    400070: MainCar 1
+    400072: Mirror
+    400074: Plane
+    400076: //RootNode
+    400078: Side
+    400080: Tire_Rubber
+    400082: Tire_Rubber.001
+    400084: Tire_Rubber.002
+    400086: Tire_Rubber.003
+    400088: TireBackLeft
+    400090: TireBackRight
+    400092: TireFrontLeft
+    400094: TireFrontRight
+    400096: Turret
+    2100000: No Name
+    2300000: BackLight
+    2300002: BackTireBumper
+    2300004: barrel
+    2300006: BumperBack
+    2300008: BumperFront
+    2300010: Cylinder
+    2300012: FrontLight
+    2300014: FrontShield
+    2300016: GunBarrel
+    2300018: MainCar 1
+    2300020: Mirror
+    2300022: Plane
+    2300024: Side
+    2300026: Tire_Rubber
+    2300028: Tire_Rubber.001
+    2300030: Tire_Rubber.002
+    2300032: Tire_Rubber.003
+    2300034: TireBackLeft
+    2300036: TireBackRight
+    2300038: TireFrontLeft
+    2300040: TireFrontRight
+    2300042: Turret
+    3300000: BackLight
+    3300002: BackTireBumper
+    3300004: barrel
+    3300006: BumperBack
+    3300008: BumperFront
+    3300010: Cylinder
+    3300012: FrontLight
+    3300014: FrontShield
+    3300016: GunBarrel
+    3300018: MainCar 1
+    3300020: Mirror
+    3300022: Plane
+    3300024: Side
+    3300026: Tire_Rubber
+    3300028: Tire_Rubber.001
+    3300030: Tire_Rubber.002
+    3300032: Tire_Rubber.003
+    3300034: TireBackLeft
+    3300036: TireBackRight
+    3300038: TireFrontLeft
+    3300040: TireFrontRight
+    3300042: Turret
+    4300000: TireFrontRight
+    4300002: Tire_Rubber
+    4300004: TireBackRight
+    4300006: Tire_Rubber.002
+    4300008: TireFrontLeft
+    4300010: Tire_Rubber.001
+    4300012: TireBackLeft
+    4300014: Tire_Rubber.003
+    4300016: MainCar
+    4300018: Cylinder
+    4300020: FrontLight
+    4300022: BackLight
+    4300024: Mirror
+    4300026: Plane
+    4300028: FrontShield
+    4300030: BumperBack
+    4300032: BackTireBumper
+    4300034: barrel
+    4300036: Side
+    4300038: BumperFront
+    4300040: Turret
+    4300042: GunBarrel
+    7400000: CarRig|Backwards
+    7400002: CarRig|Drive
+    7400004: CarRig|Shoot
+    7400006: CarRig|Steer_Left
+    7400008: CarRig|Steer_Right
+    7400010: CarRig|Sterr_Right
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: CarRig|Backwards
+      takeName: CarRig|Backwards
+      firstFrame: 0
+      lastFrame: 3
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: CarRig|Drive
+      takeName: CarRig|Drive
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: CarRig|Shoot
+      takeName: CarRig|Shoot
+      firstFrame: 0
+      lastFrame: 8
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: CarRig|Steer_Left
+      takeName: CarRig|Steer_Left
+      firstFrame: 10
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: CarRig|Steer_Right
+      takeName: CarRig|Steer_Right
+      firstFrame: 10
+      lastFrame: 49
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
